@@ -1,5 +1,9 @@
 ## Progress Nexus and AI Product Education
 
+Welcome to our collection of educational materials for Progress.
+
+### Nexus: AI Agent Observation
+
 
 
 <!--
