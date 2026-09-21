@@ -4,6 +4,13 @@ Welcome to our collection of educational materials for Progress.
 
 ### Nexus: AI Agent Observation
 
+product description
+
+| Webinar Date | Topic | Description |
+| --- | --- | --- |
+| August 2026 | AI  goes off the rails | Guardrails and secure practices for your agents |
+
+
 
 
 <!--
