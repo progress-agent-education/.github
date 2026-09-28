@@ -19,7 +19,7 @@ AI agents, RAG systems, copilots, and LLM workflows do not behave like tradition
 | --- | --- | --- |
 | [Progress Agent Engineering](https://www.telerik.com/ai-observability-platform) | Product overview | Learn what the platform does, who it is for, pricing, and how to start |
 | [Documentation](https://www.telerik.com/ai-observability-platform/documentation/introduction) | Docs | Set up tracing, SDKs, evaluations, cost analysis, and troubleshooting |
-| [AI Observability Blog](https://www.telerik.com/blogs/tag/ai-observability) | Articles | Learn patterns for AI traces, silent failures, cost visibility, and evaluations |
+| [AI Observability Blog](https://www.telerik.com/blogs/tag/ai-observability) | Articles | Learn more about AI traces, silent failures, cost visibility, and evaluations |
 | [Video Playlist](https://www.youtube.com/playlist?list=PLGWCFCL9mCmE) | Videos | Watch demos, walkthroughs, and educational sessions |
 
 ## Featured Resources
